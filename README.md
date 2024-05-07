@@ -4,6 +4,7 @@
 https://github.com/19972024/Aircraft-Accidents-Project/assets/156945446/f67a6da3-3384-481c-b049-2406f43d0da2
 
 Requisitos:
+
 #Para el tercer proyecto, debe elegir entre estas dos opciones:
 
 #Recopilar datos a través de APIs o Web Scrapping
@@ -18,6 +19,9 @@ Requisitos:
 
 
 #Acerca del conjunto de datos
+
+![download (1)](https://github.com/19972024/Aircraft-Accidents-Project/assets/156945446/8ce4e0e1-42ad-41ce-a7a0-cd40d2deee94)
+
 
 #Descripción:
 
@@ -35,5 +39,5 @@ Requisitos:
 #Causa(s) probable(s) del accidente
 
 
-![images (3)](https://github.com/19972024/Aircraft-Accidents-Project/assets/156945446/5e061da5-5923-4705-976d-bacee3e86bd9)
+
 
