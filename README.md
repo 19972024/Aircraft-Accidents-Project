@@ -146,7 +146,7 @@ https://github.com/19972024/Aircraft-Accidents-Project/assets/156945446/ccc925f8
 
 ![8](https://github.com/19972024/Aircraft-Accidents-Project/assets/156945446/a4c271ab-168f-4cb5-9b30-289a706c264f)
 
-![9](https://github.com/19972024/Aircraft-Accidents-Project/assets/156945446/ab009cbf-74c1-4076-bfb8-44ca3630db71
+![9](https://github.com/19972024/Aircraft-Accidents-Project/assets/156945446/ab009cbf-74c1-4076-bfb8-44ca3630db71)
 
 #Luego de una mirada general podemos decir que las columnas year, month y day quedaron bastante bien, con ellas desarollaremos diferentes cuestiones y en cuanto a las columnas que abarcan aboard y fatalities casi todas son una l, estaria bien aplicar una logaritimica?
 
@@ -161,5 +161,24 @@ https://github.com/19972024/Aircraft-Accidents-Project/assets/156945446/ccc925f8
 #"fatalities_passangers", "fatalities", "fatalities_crew".
 
 #Con este .corr podemos ver una primera imagen de como estan nuestras variables numericas podemos observar una alta correlacion entre las columnas fatalities y fatalities passengers asique eliminaremos una, y tambien altas correlaciones entre aboard crew y passengers y fatalities crew y passengers, aqui tambien seguramente eliminemos columnas.
+
+
+#AL final nos decidimos por rellenar los nulos con la media de cada columna y pasarlo a numero entero. intentamos aplicar diferentes metodos log y raiz cuadrada pero en log me daba resultados negativos y los de raiz cuadrada no me gustaban por lo tanto no voy a tocar los outliers.
+
+![1010](https://github.com/19972024/Aircraft-Accidents-Project/assets/156945446/9b444d8e-bd13-472d-b3af-a5e8c656e264)
+
+![1111](https://github.com/19972024/Aircraft-Accidents-Project/assets/156945446/82e6b1f7-d9f7-408a-9aa3-d230805e8729)
+
+![14](https://github.com/19972024/Aircraft-Accidents-Project/assets/156945446/166c9a6d-11cf-4280-a1f7-767cef2ea666)
+
+![15](https://github.com/19972024/Aircraft-Accidents-Project/assets/156945446/d59046d4-1cd4-4cab-849b-b3e9d71cb63c)
+
+# Anteriormente ya habiamos guardado el dataset limpio, bajo este nombre para poder desarollar algunas questiones: datax_aircraft_accidents.csv
+
+
+
+
+
+
 
 
