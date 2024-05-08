@@ -173,12 +173,23 @@ https://github.com/19972024/Aircraft-Accidents-Project/assets/156945446/ccc925f8
 
 ![15](https://github.com/19972024/Aircraft-Accidents-Project/assets/156945446/d59046d4-1cd4-4cab-849b-b3e9d71cb63c)
 
-# Anteriormente ya habiamos guardado el dataset limpio, bajo este nombre para poder desarollar algunas questiones: datax_aircraft_accidents.csv
+# ESPACIO
 
 
 
+Normalizar y Escalar:
 
+#Seguramente tenga que eliminar mis columnas categoricas para poder realizar el modelo ya que me falto tiempo para poder realizar un label encoder o dummies de forma correcta ya que tengo una locura de cantidad de variables distinas en mis columnas categoricas.
 
+![16](https://github.com/19972024/Aircraft-Accidents-Project/assets/156945446/939bdc9b-a0dc-4827-81f6-f2e365fdc41f)
+
+![17](https://github.com/19972024/Aircraft-Accidents-Project/assets/156945446/66837e69-2a6a-4c18-aeb9-a5b37897903d)
+
+![18](https://github.com/19972024/Aircraft-Accidents-Project/assets/156945446/c3e2fd41-d4ce-4c3f-9e40-a3d62dd00eae)
+
+![19](https://github.com/19972024/Aircraft-Accidents-Project/assets/156945446/e60c56d1-a242-4ada-8d46-7e9fd44e10b7)
+
+![20](https://github.com/19972024/Aircraft-Accidents-Project/assets/156945446/b5e9df73-8562-450c-bce4-c41d05345254)
 
 
 
