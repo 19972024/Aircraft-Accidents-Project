@@ -44,8 +44,11 @@ Primera Fase:
 Empezamos nuestro trabajo realizando las siguientes tareas:
 
 #Exploración inicial de los datos
+
 #tipos de datos
+
 #Nulos (comprobar, no trabajar con ellos todavía)
+
 #columnas
 
 ![Captura de pantalla 2024-05-08 142604](https://github.com/19972024/Aircraft-Accidents-Project/assets/156945446/fd68c3e7-cf62-4ed9-a92d-56013a0eb6f8)
@@ -55,31 +58,37 @@ Empezamos nuestro trabajo realizando las siguientes tareas:
 #Luego empezamos a analizar los distintos campos categóricos. 
 
 #Definir tratamientos a realizar:
+
 #Corrección de categorías: value_counts? gráficas?
+
 #Hay algún campo que se pueda utilizar para feature extraction?
+
 #Hay algún campo que deba eliminarse por cantidad de nulos? Se podría hacer algo para evitarlo?
+
 #Hay algún campo que deba eliminarse ya que no aporta información?
+
 #Una vez corregidas las categorías -> chequear test chi-cuadrado para eliminar variables relacionadas
 
 A traves de una funcion realizamos un value counts a todas nuestras variables categoricas:
 
 ![Captura de pantalla 2024-05-08 142750](https://github.com/19972024/Aircraft-Accidents-Project/assets/156945446/b19703ec-543b-4fc6-b58d-ee466ae70f32)
 
-# Realizamos un value_counts de todas las columans que aparecen como categoricas para dar una primera mirada.
+#Realizamos un value_counts de todas las columans que aparecen como categoricas para dar una primera mirada.
 
-# Separaremos la columna date en año, mes, dia para buscar patrones, eliminaremos la columna time por su gran cantidad de nulos, ya que no encontre una manera correcta de poder rellenar esos datos.
+#Separaremos la columna date en año, mes, dia para buscar patrones, eliminaremos la columna time por su gran cantidad de nulos, ya que no encontre una manera correcta de poder rellenar esos datos.
 
-# En la columna location, buscaremos eliminar espacios y signos si los hay a traves de algun metodo regex o lambda, luego analizaremos agruparlos por ciudades y paises. (Ver que hacemos con esos 4 nulos)
+#En la columna location, buscaremos eliminar espacios y signos si los hay a traves de algun metodo regex o lambda, luego analizaremos agruparlos por ciudades y paises. (Ver que hacemos con esos 4 nulos)
 
-# En la columna Operador, buscaremos eliminar espacios y signos a traves de algun metodo regex o lambda. (Ver que hacemos con esos 10 nulos).
+#En la columna Operador, buscaremos eliminar espacios y signos a traves de algun metodo regex o lambda. (Ver que hacemos con esos 10 nulos).
+      
+#La columna flight la eliminaremos por su gran cantidad de nulos.
 
-# La columna flight la eliminaremos por su gran cantidad de nulos.
+#La columna route nos puede aportar algun tipo de informacion podemos elegir algunas categorias y agruparlas depende de que cantidad de informacion nos aporte sino la eliminaremos.
 
-# La columna route nos puede aportar algun tipo de informacion podemos elegir algunas categorias y agruparlas depende de que cantidad de informacion nos aporte sino la eliminaremos.
+#La columna ac_type nos ayudara a comprender ciertos aspectos de nuestro df ya que aqui tenemos los modelos de aviones involucrados en estos accidentes, hay que solo analizar que hacer con los 70 nulos que tenemos
 
-# La columna ac_type nos ayudara a comprender ciertos aspectos de nuestro df ya que aqui tenemos los modelos de aviones involucrados en estos accidentes, hay que solo analizar que hacer con los 70 nulos que tenemos
+#De las columnas registration y cn_ln que eliminaremos seguramente por ser poco relevantes para nuestro analisis.
 
-# De las columnas registration y cn_ln que eliminaremos seguramente por ser poco relevantes para nuestro analisis.
+#Por ultimo la columna summary seguramente sera eliminada ya que para el modelo que luego tenemos que hacer no nos servira, si ayudara al principio a limpiar nuestro df ya que tiene una gran cantidad de informacion que puede ayudar y/o rellenar las demas columnas del df, ademas de arrojar gran informacion para entender patrones o buscar curiosidades de los diferentes accidentes.
 
-# Por ultimo la columna summary seguramente sera eliminada ya que para el modelo que luego tenemos que hacer no nos servira, si ayudara al principio a limpiar nuestro df ya que tiene una gran cantidad de informacion que puede ayudar y/o rellenar las demas columnas del df, ademas de arrojar gran informacion para entender patrones o buscar curiosidades de los diferentes accidentes.
-
+![Captura de pantalla 2024-05-08 143210](https://github.com/19972024/Aircraft-Accidents-Project/assets/156945446/8cd09e78-2158-46ee-809a-9fb45ccd6316)
