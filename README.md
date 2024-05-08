@@ -177,10 +177,23 @@ https://github.com/19972024/Aircraft-Accidents-Project/assets/156945446/ccc925f8
 
 ![Captura de pantalla 2024-05-08 042646](https://github.com/19972024/Aircraft-Accidents-Project/assets/156945446/8d17d71a-2299-4814-8a30-d47060bc4c01)
 
+![1](https://github.com/19972024/Aircraft-Accidents-Project/assets/156945446/52a9c45a-564f-40f8-8964-8f5e56c781f6)
 
+![2](https://github.com/19972024/Aircraft-Accidents-Project/assets/156945446/a6882dfd-cfa9-4c34-be7c-29d600213d02)
+
+![3](https://github.com/19972024/Aircraft-Accidents-Project/assets/156945446/5ff5a4e2-6c02-487a-9def-a5bd96e6a925)
+
+![4](https://github.com/19972024/Aircraft-Accidents-Project/assets/156945446/1c87cec5-33c3-41f8-95c4-6da2b1e4769f)
+
+![5](https://github.com/19972024/Aircraft-Accidents-Project/assets/156945446/7b5059f1-d44f-45b8-907c-c808608b77a5)
+
+![6](https://github.com/19972024/Aircraft-Accidents-Project/assets/156945446/114af7f6-6af1-4f3c-9cb1-634451a64d5d)
+
+![7](https://github.com/19972024/Aircraft-Accidents-Project/assets/156945446/d90a75d9-721c-4046-a38b-04fcb798e77f)
 
 
 Normalizar y Escalar:
+
 
 #Seguramente tenga que eliminar mis columnas categoricas para poder realizar el modelo ya que me falto tiempo para poder realizar un label encoder o dummies de forma correcta ya que tengo una locura de cantidad de variables distinas en mis columnas categoricas.
 
