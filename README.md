@@ -173,7 +173,10 @@ https://github.com/19972024/Aircraft-Accidents-Project/assets/156945446/ccc925f8
 
 ![15](https://github.com/19972024/Aircraft-Accidents-Project/assets/156945446/d59046d4-1cd4-4cab-849b-b3e9d71cb63c)
 
-# ESPACIO
+# Datos y curiosidades
+
+![Captura de pantalla 2024-05-08 042646](https://github.com/19972024/Aircraft-Accidents-Project/assets/156945446/8d17d71a-2299-4814-8a30-d47060bc4c01)
+
 
 
 
