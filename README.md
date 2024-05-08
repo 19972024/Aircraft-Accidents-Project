@@ -209,6 +209,26 @@ https://github.com/19972024/Aircraft-Accidents-Project/assets/156945446/e26721e2
 
 ![17](https://github.com/19972024/Aircraft-Accidents-Project/assets/156945446/0bfc6482-a078-41f0-a6d7-da81354e35a3)
 
+![18](https://github.com/19972024/Aircraft-Accidents-Project/assets/156945446/23d5682f-536f-426b-8166-91d00fadde99)
+
+![El_choque_mortal_entre_2_Jumbos_~~105076~15~~es~mux~~1](https://github.com/19972024/Aircraft-Accidents-Project/assets/156945446/a3775ef4-891c-4836-aec8-32f04f50bebb)
+
+![n1977 03 27-1](https://github.com/19972024/Aircraft-Accidents-Project/assets/156945446/e56e92f0-c8a5-4dad-bb47-026cfe2b24a7)
+
+
+![19](https://github.com/19972024/Aircraft-Accidents-Project/assets/156945446/605f65f4-cd46-4a9b-b0ef-2ae92601903c)
+
+![20](https://github.com/19972024/Aircraft-Accidents-Project/assets/156945446/05e44eb5-1a9f-44f2-9c90-b7aedd6e308f)
+
+![21](https://github.com/19972024/Aircraft-Accidents-Project/assets/156945446/12dae516-be15-47e6-844d-39bff4d0ba91)
+
+![22](https://github.com/19972024/Aircraft-Accidents-Project/assets/156945446/0d1f51b7-e817-4eb9-b5ca-0fd2a15fd44f)
+
+![23](https://github.com/19972024/Aircraft-Accidents-Project/assets/156945446/619a6fc9-aa44-4759-a404-f3746d232933)
+
+![24](https://github.com/19972024/Aircraft-Accidents-Project/assets/156945446/3111ed2a-2c44-4d19-b68b-16e401626d70)
+
+![26](https://github.com/19972024/Aircraft-Accidents-Project/assets/156945446/c7f74f64-9095-425c-b619-907e082f4305)
 
 
 
