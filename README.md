@@ -191,6 +191,20 @@ https://github.com/19972024/Aircraft-Accidents-Project/assets/156945446/ccc925f8
 
 ![7](https://github.com/19972024/Aircraft-Accidents-Project/assets/156945446/d90a75d9-721c-4046-a38b-04fcb798e77f)
 
+![10](https://github.com/19972024/Aircraft-Accidents-Project/assets/156945446/5136d4ac-91a1-4e2e-9426-f600bf5b9104)
+
+![11](https://github.com/19972024/Aircraft-Accidents-Project/assets/156945446/03eaaf27-97d0-4042-9b52-58aa63d5dacb)
+
+![12](https://github.com/19972024/Aircraft-Accidents-Project/assets/156945446/803fe37c-1ddb-4244-b215-3fcb3a4558bf)
+
+
+
+
+
+
+
+
+
 
 Normalizar y Escalar:
 
