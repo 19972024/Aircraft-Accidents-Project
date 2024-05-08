@@ -197,11 +197,13 @@ https://github.com/19972024/Aircraft-Accidents-Project/assets/156945446/ccc925f8
 
 ![12](https://github.com/19972024/Aircraft-Accidents-Project/assets/156945446/803fe37c-1ddb-4244-b215-3fcb3a4558bf)
 
+![14](https://github.com/19972024/Aircraft-Accidents-Project/assets/156945446/d97ec682-4170-4c9a-9532-86e1b339bb59)
 
+![15](https://github.com/19972024/Aircraft-Accidents-Project/assets/156945446/d58d37d9-e10e-4e44-8436-7cf3cee24fc4)
 
+![16](https://github.com/19972024/Aircraft-Accidents-Project/assets/156945446/9e3c0a83-f035-4cae-aaa1-89d3d57f752f)
 
-
-
+![17](https://github.com/19972024/Aircraft-Accidents-Project/assets/156945446/0bfc6482-a078-41f0-a6d7-da81354e35a3)
 
 
 
