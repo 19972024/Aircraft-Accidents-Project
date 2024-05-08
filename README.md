@@ -1,5 +1,5 @@
 # Aircraft-Accidents-Project
-#Accidentes aéreos y víctimas mortales desde 1908 a 2023
+# Accidentes aéreos y víctimas mortales desde 1908 a 2023
 
 https://github.com/19972024/Aircraft-Accidents-Project/assets/156945446/f67a6da3-3384-481c-b049-2406f43d0da2
 
@@ -43,7 +43,7 @@ Primera Fase:
 
 Empezamos nuestro trabajo realizando las siguientes tareas:
 
-#Exploración inicial de los datos
+# Exploración inicial de los datos
 
 #tipos de datos
 
@@ -55,7 +55,7 @@ Empezamos nuestro trabajo realizando las siguientes tareas:
 
 
 
-#Luego empezamos a analizar los distintos campos categóricos. 
+# Analisis de los distintos campos categóricos. 
 
 #Definir tratamientos a realizar:
 
@@ -112,3 +112,54 @@ Para finalizar con las variables categoricas realizamos varias pruebas chi cuadr
 Sin embargo, es importante tener en cuenta que un p-value de 0.0 no significa necesariamente que el resultado sea perfecto o que no haya errores en el análisis. A veces, un p-value muy bajo puede ser el resultado de una gran cantidad de datos o de otros factores que afectan la precisión del cálculo.
 
 ![3](https://github.com/19972024/Aircraft-Accidents-Project/assets/156945446/b30cdfc2-d9f9-4c98-9283-5681765d53e1)
+
+Una vez finalizado esto comenzamos con analizar nuestras variables numericas:
+
+# Numerical Data - Exploration
+
+#Para las distintas variables numéricas
+
+#Explorar nulls
+
+#Explorar outliers
+
+#Hay alguna variable a la que haya que aplicarle transformaciones (log, raiz cuadrada)?
+
+#Explorar correlaciones entre variables numéricas
+
+A traves de una funcion realizamos un value counts a todas nuestras variables numericas:
+
+![4](https://github.com/19972024/Aircraft-Accidents-Project/assets/156945446/f0d8adb9-d734-47e7-abca-9f0dc831c5a7)
+
+#Empezamos eliminando la columna ground y summary.
+#Luego creamos una nueva columna llamada fatality ratio para calcular el porcentaje de muertes de los diferentes accidentes y asi poder estudiar una nueva variable.
+
+![5](https://github.com/19972024/Aircraft-Accidents-Project/assets/156945446/c964373f-7a65-4c83-b647-53dbc76a4e24)
+
+Hacemos una mirada general:
+
+
+
+https://github.com/19972024/Aircraft-Accidents-Project/assets/156945446/ccc925f8-e08e-4b3c-88ad-7b7098cf60d8
+
+![7](https://github.com/19972024/Aircraft-Accidents-Project/assets/156945446/8a3b85c8-5211-4a9c-8757-84300506e5dd)
+
+![8](https://github.com/19972024/Aircraft-Accidents-Project/assets/156945446/a4c271ab-168f-4cb5-9b30-289a706c264f)
+
+![9](https://github.com/19972024/Aircraft-Accidents-Project/assets/156945446/ab009cbf-74c1-4076-bfb8-44ca3630db71
+
+#Luego de una mirada general podemos decir que las columnas year, month y day quedaron bastante bien, con ellas desarollaremos diferentes cuestiones y en cuanto a las columnas que abarcan aboard y fatalities casi todas son una l, estaria bien aplicar una logaritimica?
+
+#En la columna aboard tenemos pocos nulos que podemos rellenar con algun metodo
+
+#En la columna aboard_passangers nos pasa algo muy parecido a la columna aboard.
+
+#En la columna aboard_crew lo mismo de arriba
+ 
+#Con respecto a estas columnas mas de lo mismo ver como podemos tratar esos nulos y outliers ya que toda informacion es importante, podria ser una buena idea realizar una matriz de correlacion para ver como ya puede a ver algun tipo de conexion entre estas variables?
+
+#"fatalities_passangers", "fatalities", "fatalities_crew".
+
+#Con este .corr podemos ver una primera imagen de como estan nuestras variables numericas podemos observar una alta correlacion entre las columnas fatalities y fatalities passengers asique eliminaremos una, y tambien altas correlaciones entre aboard crew y passengers y fatalities crew y passengers, aqui tambien seguramente eliminemos columnas.
+
+
