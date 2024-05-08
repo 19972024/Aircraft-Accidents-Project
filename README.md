@@ -92,3 +92,23 @@ A traves de una funcion realizamos un value counts a todas nuestras variables ca
 #Por ultimo la columna summary seguramente sera eliminada ya que para el modelo que luego tenemos que hacer no nos servira, si ayudara al principio a limpiar nuestro df ya que tiene una gran cantidad de informacion que puede ayudar y/o rellenar las demas columnas del df, ademas de arrojar gran informacion para entender patrones o buscar curiosidades de los diferentes accidentes.
 
 ![Captura de pantalla 2024-05-08 143210](https://github.com/19972024/Aircraft-Accidents-Project/assets/156945446/8cd09e78-2158-46ee-809a-9fb45ccd6316)
+
+En mientras ya habiamos eliminado algunas columnas y rellenados los 4 valores nulos de la columna location con el valor unknown
+
+![Captura de pantalla 2024-05-08 143327](https://github.com/19972024/Aircraft-Accidents-Project/assets/156945446/520a3494-ff7d-4ade-ba6f-bc53e1f894ee)
+
+Luego empezamos a trabajar con la columna location para poder dividirla en dos nuevas columnas city y country para esto aplicamos diferentes metodos como los de a continuacion:
+
+![1](https://github.com/19972024/Aircraft-Accidents-Project/assets/156945446/10893779-16e2-4cfc-810c-d207ed15350e)
+
+
+![2](https://github.com/19972024/Aircraft-Accidents-Project/assets/156945446/535b0dc6-5419-489e-92ef-5b71264edd11)
+
+Eliminamos tambien diferentes columnas y rellenamos los valores nulos de la columna operator, ac_type y summary con valores unknown.
+
+
+Para finalizar con las variables categoricas realizamos varias pruebas chi cuadrado, llegando a la conlucion de que al tener todas un valor menor de 0.05 osea nn p-value de 0.0 en un análisis estadístico generalmente indica que la probabilidad de observar los datos (o datos más extremos) bajo la hipótesis nula es extremadamente baja, prácticamente nula. Esto suele interpretarse como evidencia significativa en contra de la hipótesis nula, lo que sugiere que hay una asociación significativa entre las variables en estudio.
+
+Sin embargo, es importante tener en cuenta que un p-value de 0.0 no significa necesariamente que el resultado sea perfecto o que no haya errores en el análisis. A veces, un p-value muy bajo puede ser el resultado de una gran cantidad de datos o de otros factores que afectan la precisión del cálculo.
+
+![3](https://github.com/19972024/Aircraft-Accidents-Project/assets/156945446/b30cdfc2-d9f9-4c98-9283-5681765d53e1)
